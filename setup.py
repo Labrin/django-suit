@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='django-suit@labrin',
+    name='django-suit-labrin',
     version=__import__('suit').VERSION,
     description='Modern theme for Django admin interface.',
     author='Kaspars Sprogis (darklow)',
